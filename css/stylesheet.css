@@ -1,0 +1,39 @@
+/*--------------------------------------
+            Import Google Fonts 
+ -------------------------------------*/
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+ /*-------------------------------
+            Utility styles
+ ------------------------------ */
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+
+.intro{
+    background-color: #264653;
+    color: white;
+}
+
+.intro-details p{
+    color: #E0E0E0;
+}
+
+.intro-details .btn-purchase{
+    color: white;
+    background-color: #E76F51;
+    width: 168px;
+    height: 44px;
+    font-weight: 500;
+
+}
+
+
+.purchase-modal-dialog{
+    background-color: #e76f51ed;
+}
+
