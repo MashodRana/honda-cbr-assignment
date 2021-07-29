@@ -67,17 +67,15 @@ body{
 }
 
 
+/* -------------------------------- */
 
 
-
-
-
-
-
-
-
-
-
+.accordion-custom-btn:not(.collapsed)::after {
+    background-image: url(/images/down-arrow.png);
+}
+.accordion-custom-btn:collapsed::after {
+    background-image: url(/images/upper-arrow.png);
+}
 
 
 
