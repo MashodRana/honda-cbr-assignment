@@ -11,7 +11,14 @@ body{
     font-family: 'Poppins', sans-serif;
     padding: 0;
     margin: 0;
+    /* background-color: #E5E5E5; */
 }
+
+.short-text-color{
+    color: #E76F51;
+}
+
+/* --------------------------- */
 
 
 .intro{
@@ -36,4 +43,64 @@ body{
 .purchase-modal-dialog{
     background-color: #e76f51ed;
 }
+
+/* Featured Bike section styles  */
+
+.gray-scale{
+    filter: grayscale(100%);
+}
+
+/*----------------------------------------------------
+            Client Reviews Styles
+----------------------------------------------------*/
+.review img{
+    width: 149px;
+    height: 149px;
+    border-radius: 50%;
+}
+.review .user-profession{
+    color: #252B42;
+}
+
+.review .user-review-text{
+    color: #6C6C6C;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
