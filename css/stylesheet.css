@@ -93,6 +93,19 @@ body{
     height: 300px;
     /* width: 100%; */
 }
+
+/* Contact Section Styles */
+.subscribe{
+    background-color: #264653dc;
+    color: white;
+}
+
+.subscribe .subscribe-btn{
+    background-color: #E76F51;
+    color:white;
+}
+
+
 /* ---------------------------------------------- */
 
 
