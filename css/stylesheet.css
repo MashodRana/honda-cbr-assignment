@@ -77,10 +77,31 @@ body{
     background-image: url(/images/upper-arrow.png);
 }
 
+/* -------------------------------------------------- */
+
+.explore-bike-series h3{
+    text-align: center;
+}
+
+.explore-bike-series .series-info p{
+    height: 200px;
+    overflow: hidden;
+
+}
+
+.carousel-item img{
+    height: 300px;
+    /* width: 100%; */
+}
+/* ---------------------------------------------- */
 
 
-
-
+@media only screen and (max-width:768px) {
+    .carousel-item img{
+        height: 130px;
+        /* width: 100%; */
+    }
+}
 
 
 
